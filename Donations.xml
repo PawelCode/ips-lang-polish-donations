@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <language name="Polski" rtl="0">
- <app key="donate" version="">
+ <app key="donate" version="100204">
   <word key="__app_donate" js="0">Dotacje</word>
   <word key="frontnavigation_donate" js="0">Dotacje</word>
   <word key="module__donate_donate" js="0">Dotacje</word>
@@ -14,7 +14,7 @@
   <word key="menu__donate_setup" js="0">Instalacja</word>
   <word key="menu__donate_setup_currencies" js="0">Waluty</word>
   <word key="menu__donate_setup_donatefields" js="0">Pola niestandardowe</word>
-  <word key="menu__donate_setup_gateways" js="0">Bramy płatnicze</word>
+  <word key="menu__donate_setup_gateways" js="0">Bramki płatnicze</word>
   <word key="menu__donate_setup_rewards" js="0">Nagrody Użytkowników</word>
   <word key="menu__donate_setup_autoreset" js="0">Automatyczne resetowanie</word>
   <word key="menu__donate_setup_permissions" js="0">Uprawnienia grupy</word>
@@ -23,29 +23,30 @@
   <word key="menu__donate_goals_settings" js="0">Ustawienia</word>
   <word key="group__donate_Donate" js="0">Dotacje</word>
   <word key="page__donations" js="0">Wszystkie dotacje</word>
-  <word key="page__top_donors" js="0">Top dotacje</word>
+  <word key="page__top_donors" js="0">Najlepsi darczyńcy</word>
   <word key="page__goals" js="0">Wszystkie cele</word>
   <word key="module__setup_autoreset" js="0">Automatyczny reset</word>
   <word key="donate" js="0">Podaruj</word>
   <word key="editor__donate_Goals" js="0">Cel</word>
   <word key="profile_donate_Donate" js="0">Dotacje</word>
-  <word key="profile_donate_DonateChanges" js="0">Dotacje</word>
-  <word key="loc_donate_index" js="0">Wyświetlanie indeksu dotacji</word>
+  <word key="profile_donate_DonateChanges" js="0">Zmiany w dotacjach</word>
+  <word key="loc_donate_index" js="0">Przegląda darowizny</word>
   <word key="loc_donate_donations" js="0">Wyświetlanie dotacji</word>
   <word key="loc_donate_goals" js="0">Wyświetlanie celów dotacji </word>
-  <word key="loc_donate_topdonors" js="0">Wyświetlanie top donatorów</word>
+  <word key="loc_donate_topdonors" js="0">Wyświetlanie najlepszych darczyńców</word>
   <word key="loc_donate_viewing_goal" js="0">Wyświetalnie celu dotacji: %s</word>
+  <word key="queue_donate_rebuilding_legacy_member_field" js="0">Odbudowa dawnych darowizn użytkowników</word>
   <word key="donor_title" js="0">Użytkownik przekazał darowiznę.</word>
   <word key="member_donor" js="0">Donator</word>
   <word key="donate_member_donations" js="0">Dotacje</word>
-  <word key="donate_c_new_amount" js="0">Suma całej dotacji</word>
-  <word key="donate_c_notes" js="0">Zmień notatkę</word>
-  <word key="donate_c_notes_desc" js="0">Wszelkie uwagi do opuszczenia z tą zmianą?</word>
+  <word key="donate_c_new_amount" js="0">Suma dotacji</word>
+  <word key="donate_c_notes" js="0">Notatka</word>
+  <word key="donate_c_notes_desc" js="0">Jakieś uwagi do tej zmiany?</word>
   <word key="donate_edit_donation_total" js="0">Edytuj wszystko</word>
   <word key="donate_no_transfer_found" js="0">Dotacja nie może zostać znalezione.</word>
   <word key="donate_send_note" js="0">Wyślij do: </word>
-  <word key="latest_goals_rss" js="0">Najnowsze cele</word>
-  <word key="latest_donations_rss" js="0">Najnowsze dotacje</word>
+  <word key="latest_goals_rss" js="0">Ostatnie cele</word>
+  <word key="latest_donations_rss" js="0">Ostatnie dotacje</word>
   <word key="percent_of_goal_reached" js="0">% osiągniętego celu.</word>
   <word key="anonymous_donation" js="0">Anonimowa dotacja</word>
   <word key="anonymous_donation_amount" js="0">Anonimowa kwota</word>
@@ -58,31 +59,31 @@
   <word key="donate_of" js="0">z</word>
   <word key="goal_reached" js="0">cel osiągniety.</word>
   <word key="donate_now" js="0">Wpłać teraz</word>
-  <word key="donation_success_message" js="0">Dziękujemy, dotacja zostanie teraz przejrzana...</word>
+  <word key="donation_success_message" js="0">Dziękujemy, dotacja zostanie teraz sprawdzona.</word>
   <word key="return_donations" js="0">Wróć do dotacji.</word>
   <word key="donate_guest" js="0">Gość</word>
   <word key="no_active_goals" js="0">Brak aktywnych celów do wyświetlenia.</word>
   <word key="anonymous_donation_tag" js="0">Anonimowy</word>
   <word key="donate_total" js="0">Łącznie</word>
   <word key="donate_tab_updates" js="0">Aktualizacje</word>
-  <word key="donate_tab_goals" js="0">Cele</word>
-  <word key="donate_tab_donations" js="0">Dotacje</word>
-  <word key="donate_tab_topdonors" js="0">Top donatorzy</word>
+  <word key="donate_tab_goals" js="0">Cele dotacji</word>
+  <word key="donate_tab_donations" js="0">Ostatnie dotacje</word>
+  <word key="donate_tab_topdonors" js="0">Najwięksi darczyńcy</word>
   <word key="donate_filter_active_goals" js="0">Aktywne cele</word>
   <word key="donate_filter_closed_goals" js="0">Zamknięte cele</word>
   <word key="donate_filter_active_donations" js="0">Aktywne dotacje</word>
-  <word key="donation_not_found" js="0">Nie znaleziono dotacji...</word>
+  <word key="donation_not_found" js="0">Nie znaleziono dotacji.</word>
   <word key="promotion_not_found" js="0">Nie znaleziono promocji.</word>
   <word key="rss_offline" js="0">Ten kanał RSS jest wyłączony</word>
   <word key="donate_error" js="0">Ta grupa użytkowników nie może przekazać dotacji.</word>
-  <word key="gateways_required" js="0">Nie można kontynuować bez bramy płatniczej...</word>
-  <word key="gateways_required_admin" js="0"><![CDATA[Nie można kontynuować bez bramy płatniczej. Upewnij się, że masz co najmniej jedną włączoną opcję ACP > Dotacje > Instalacja > Bramy płatnicze]]></word>
+  <word key="gateways_required" js="0">Nie można kontynuować bez bramki płatniczej.</word>
+  <word key="gateways_required_admin" js="0"><![CDATA[Nie można kontynuować bez bramki płatniczej. Upewnij się, że masz co najmniej jedną włączoną opcję ACP > Dotacje > Instalacja > Bramy płatnicze]]></word>
   <word key="minimum_amount_required" js="0">Minimalna kwota darowizny to: %s</word>
   <word key="amount_required" js="0">Proszę wpisać lub wybrać kwotę do przekazania dotacji</word>
   <word key="currency_required" js="0">Wybierz jaką walutą chce przekazać dotacje.</word>
-  <word key="gateway_required" js="0">Wybierz bramkę do darowizny.</word>
-  <word key="reward_amount_overlap" js="0">Dostosuj zakres kwot aby nie pokrywać się z istniejącą nagrodą.</word>
-  <word key="donate_no_managetotal_perms" js="0">Nie masz uprawnień do zarządzania sumami darowizn.</word>
+  <word key="gateway_required" js="0">Wybierz bramkę do dotacji.</word>
+  <word key="reward_amount_overlap" js="0">Prosimy o dostosowanie zakresu kwot, aby nie pokrywały się z istniejącymi nagrodami.</word>
+  <word key="donate_no_managetotal_perms" js="0">Nie masz uprawnień do zarządzania sumami dotacji.</word>
   <word key="r__donations" js="0">Dotacje</word>
   <word key="r__logs" js="0">Logi</word>
   <word key="r__promotions" js="0">Promocje</word>
@@ -103,15 +104,15 @@
   <word key="r__autoreset_manage" js="0">Może zarządzać automatycznym resetem?</word>
   <word key="r__permissions_manage" js="0">Może zarządzać uprawnieniami?</word>
   <word key="r__goals_manage" js="0">Może zarządzać celami?</word>
-  <word key="donationlog__emptypost" js="0">Błąd testu POST</word>
+  <word key="donationlog__emptypost" js="0">Błąd pustego POST</word>
   <word key="donationlog__emptypost_desc" js="0">Nie podano danych postów.</word>
-  <word key="donationlog__gateway" js="0">Błąd bramki...</word>
-  <word key="donationlog__auth" js="0">Błąd auth..</word>
-  <word key="donationlog__process" js="0">Błąd procesu...</word>
-  <word key="donationlog__gateway_mismatch" js="0">Niezgodność adresu e-mail bramy</word>
-  <word key="donationlog__gateway_mismatch_desc" js="0">Adres bramy nie pasuje.</word>
-  <word key="donationlog__goalemail_mismatch" js="0">Niezgodność adresiu e-mail celu</word>
-  <word key="donationlog__goalemail_mismatch_desc" js="0">Ares e-mail celu jest niezgodny.</word>
+  <word key="donationlog__gateway" js="0">Błąd bramki płatności (Gateway Error)</word>
+  <word key="donationlog__auth" js="0">Błąd autoryzacji</word>
+  <word key="donationlog__process" js="0">Błąd procesu.</word>
+  <word key="donationlog__gateway_mismatch" js="0">Niedopasowanie adresu e-mail bramki płatności</word>
+  <word key="donationlog__gateway_mismatch_desc" js="0">Adres bramy płatności nie pasuje.</word>
+  <word key="donationlog__goalemail_mismatch" js="0">Niezgodność adresu e-mail celu</word>
+  <word key="donationlog__goalemail_mismatch_desc" js="0">Adres e-mail celu jest niezgodny.</word>
   <word key="donationlog__txn" js="0">Błąd TXN</word>
   <word key="donationlog__txn_desc" js="0">Wykryto duplikat txn id.</word>
   <word key="donationlog__currency" js="0">Błąd waluty</word>
@@ -119,31 +120,32 @@
   <word key="donationlog__goal" js="0">Błąd celu</word>
   <word key="donationlog__donation" js="0">Błąd dotacji</word>
   <word key="donationlog__reward" js="0">Błąd nagrody</word>
-  <word key="donationlog__success" js="0">Powodzenie!</word>
-  <word key="donationlog__donation_mismatch" js="0">Niezgodność IPN / API</word>
-  <word key="donationlog__donation_mismatch_desc" js="0">Żądanie IPN / API, które prawdopodobnie nie pochodzi z aplikacji dotacji.</word>
+  <word key="donationlog__success" js="0">Powodzenie</word>
+  <word key="donationlog__donation_mismatch" js="0">Błąd zgodności IPN/API</word>
+  <word key="donationlog__donation_mismatch_desc" js="0">Żądanie IPN/API, które nie wydaje się pochodzić z aplikacji Donations. </word>
   <word key="donationlog__invoice" js="0">Błąd faktury</word>
-  <word key="donationlog__already_paid" js="0">Zduplikowana płatność</word>
-  <word key="donationlog__already_paid_desc" js="0">Wykryto zduplikowaną płatność..</word>
+  <word key="donationlog__already_paid" js="0">Duplikat płatności</word>
+  <word key="donationlog__already_paid_desc" js="0">Wykryto podwójną płatność.</word>
+  <word key="donationlog__no_invoice" js="0">Nie wykryto faktury do przetworzenia.</word>
   <word key="donationlogs" js="0">Logi płatności</word>
   <word key="donationlogs_author_id" js="0">Użytkownik</word>
   <word key="donationlogs_problem" js="0">Problem</word>
   <word key="donationlogs_date" js="0">Data płatności</word>
   <word key="donationlogs_ip_address" js="0">Adres IP</word>
   <word key="donationlogs_post_data" js="0">Dane dziennika</word>
-  <word key="dttag_member_name" js="0">Nazwa Usera</word>
+  <word key="dttag_member_name" js="0">Nazwa użytkownika</word>
   <word key="dttag_amount" js="0">Kwota</word>
   <word key="dttag_board_name" js="0">Nazwa strony</word>
   <word key="dttag_currency" js="0">Waluta</word>
-  <word key="dt_donation_reset" js="0">Wybierz datę resetowania</word>
+  <word key="dt_donation_reset" js="0">Wybierz datę resetu</word>
   <word key="dt_donation_reset_settings" js="0">Wybierz ustawienia automatyczne</word>
-  <word key="dt_donation_reset_settings_desc" js="0">Wprowadź i wybierz przedział czasowy, w którym zostanie uruchomiony reset automatyczny.</word>
-  <word key="dt_goal_reset" js="0">Wybierz datę resetowania</word>
+  <word key="dt_donation_reset_settings_desc" js="0">Wprowadź i wybierz przedział czasowy, w którym zostanie uruchomiony automatyczny reset. </word>
+  <word key="dt_goal_reset" js="0">Wybierz datę zresetowania</word>
   <word key="dt_goal_reset_settings" js="0">Wybierz ustawienia automatyczne</word>
   <word key="dt_goal_reset_settings_desc" js="0">Wprowadź i wybierz przedział czasowy, w którym zostanie uruchomiony reset automatyczny.</word>
-  <word key="reset_remove" js="0">(Usunąć)</word>
-  <word key="donations_autoreset" js="0">Dotacje dokonane przed wybraną datą nie będą wyświetlane ani wliczane do kwot darowizn.</word>
-  <word key="goals_autoreset" js="0"><![CDATA[Cele i dotacje dokonane przed podaną poniżej datą nie będą wyświetlane ani wliczane do sumy darowizn. <strong>Włącz, wyłączanie celów tylko wtedy, gdy chcesz wyłączyć wyświetlanie rzeczywistego celu.</strong>]]></word>
+  <word key="reset_remove" js="0">(Usuń)</word>
+  <word key="donations_autoreset" js="0">Dotacje dokonane przed wybraną poniżej datą nie będą wyświetlane ani wliczane do sumy darowizn. </word>
+  <word key="goals_autoreset" js="0"><![CDATA[Cele i dotacje dokonane przed podaną poniżej datą nie będą wyświetlane ani wliczane do sumy dotacji. <strong>Włącz, wyłączanie celów tylko wtedy, gdy chcesz wyłączyć wyświetlanie rzeczywistego celu.</strong>]]></word>
   <word key="day_of_the" js="0">Dzień</word>
   <word key="reset_week" js="0">Tydzien</word>
   <word key="reset_month" js="0">Miesiąc</word>
@@ -152,12 +154,12 @@
   <word key="new_donation_promotion_pm_message" js="0">Twoja grupa została uaktualniona w ramach niedawnej promocji dotacji.</word>
   <word key="currencies" js="0">Waluty</word>
   <word key="add_currency" js="0">Dodaj walute</word>
-  <word key="edit_currency" js="0">Edytuj walute</word>
+  <word key="edit_currency" js="0">Edytuj walutę</word>
   <word key="name" js="0">Nazwa</word>
   <word key="name_desc" js="0">Wprowadź pełną nazwę waluty.</word>
   <word key="tag" js="0">Tag</word>
   <word key="tag_desc" js="0">Wprowadź kod waluty (ISO 4217 Code).</word>
-  <word key="rate" js="0">Rate</word>
+  <word key="rate" js="0">Stawka</word>
   <word key="rate_desc" js="0">Kurs walutowy w stosunku do domyślnej waluty. np. 1 USD = 1 USD</word>
   <word key="symbol" js="0">Symbol</word>
   <word key="symbol_desc" js="0">Wprowadź symbol waluty.</word>
@@ -170,14 +172,14 @@
   <word key="add_gateway" js="0">Dodaj bramkę</word>
   <word key="gw_name" js="0">Nazwa</word>
   <word key="gw_file" js="0">Nazwa pliku</word>
-  <word key="gw_file_desc" js="0">EWprowadź nazwę pliku (bez rozszerzenia .php) w folderze bramy płatności: </word>
+  <word key="gw_file_desc" js="0">Wprowadź nazwę pliku (bez rozszerzenia .php) w folderze bramy płatności: </word>
   <word key="gw_email" js="0">Adres e-mail</word>
   <word key="gw_email_desc" js="0">Wprowadź swój adres e-mail bramy lub klucz identyfikacyjny.</word>
   <word key="gw_active" js="0">Włączone</word>
   <word key="gw_active_desc" js="0">Czy ta bramka jest dostępna do użytku?</word>
   <word key="gw_dev" js="0">Tryb dewelopera</word>
-  <word key="gw_dev_desc" js="0">Użyj funkcji programisty bramy lub funkcji piaskownicy?</word>
-  <word key="gw_summary" js="0">Streszczenie</word>
+  <word key="gw_dev_desc" js="0">Czy używasz funkcji dewelopera lub sandbox w swoich bramach? </word>
+  <word key="gw_summary" js="0">Podsumowanie</word>
   <word key="gw_summary_desc" js="0">Szybkie podsumowanie bramy do wyświetlania użytkowniką.</word>
   <word key="gateway_settings" js="0">Ustawienia bramki</word>
   <word key="gateway_instructions" js="0">Instrukcje dotyczące bramy</word>
@@ -186,11 +188,13 @@
   <word key="secret_word_desc" js="0">Wprowadź tajne słowo, które ustawiłeś w sekcji narzędzi handlowych na stronie Skrill.</word>
   <word key="api_key" js="0">Klucz API</word>
   <word key="api_secretkey" js="0">Klucz tajny API</word>
-  <word key="widget_code" js="0">Kod widżetu</word>
+  <word key="widget_code" js="0">Kod widgetu</word>
   <word key="gw_emails_enable" js="0">Włączyć wielu odbiorców?</word>
-  <word key="gw_emails_enable_desc" js="0"><![CDATA[Pozwól wielu odbiorcom wybrać dotacje? <strong>To ustawienie zastąpi domyślny adres / identyfikator bramy, które ustawiłeś.</strong>]]></word>
+  <word key="gw_emails_enable_desc" js="0"><![CDATA[Zezwolić na wybór wielu odbiorców do przekazania dotacji? <strong>To ustawienie zastąpi domyślny adres/id bramy, który został ustawiony.</strong> ]]></word>
   <word key="gw_emails" js="0">Adresaci e-maili</word>
   <word key="gw_emails_desc" js="0">Adres e-mail bramy odbiorcy lub klucz identyfikatora.</word>
+  <word key="paypal_locale" js="0">PayPal Locale</word>
+  <word key="paypal_locale_desc" js="0">Jeśli chcesz używać innego języka niż Twoje własne konto Paypal. Wprowadź tutaj locale, np. pl_PL. </word>
   <word key="group_promotions" js="0">Promocje grupowe</word>
   <word key="demote_member_id" js="0">Użytkownik</word>
   <word key="demote_member_name" js="0">Użytkownik</word>
@@ -202,20 +206,20 @@
   <word key="edit_promotion" js="0">Edytuj promocję</word>
   <word key="donate_promotion_settings" js="0">Ustawienia promocji</word>
   <word key="donate_primary_group" js="0">Grupa podstawowa</word>
-  <word key="donate_secondary_groups" js="0">Drugorzędne grupy</word>
+  <word key="donate_secondary_groups" js="0">Grupy podrzędne</word>
   <word key="member_id" js="0">Użytkkownik</word>
   <word key="date_added" js="0">Data promowana</word>
   <word key="demote_date" js="0">Data zakończenia</word>
-  <word key="original_group" js="0">Oryginalna grupa</word>
+  <word key="original_group" js="0">Grupa oryginalna</word>
   <word key="new_group" js="0">Promowana grupa</word>
   <word key="demote_group" js="0">Degradacja grupy</word>
-  <word key="original_group2" js="0">Oryginalna grupa</word>
+  <word key="original_group2" js="0">Grupa oryginalna</word>
   <word key="new_group2" js="0">Promowana grupa</word>
   <word key="demote_group2" js="0">Degradacja grupy</word>
   <word key="donate_rewards" js="0">Nagrody użytkownika</word>
   <word key="reward_title" js="0">Tytuł nagrody</word>
   <word key="reward_active" js="0">Aktywny</word>
-  <word key="reward_general_header" js="0">Główne</word>
+  <word key="reward_general_header" js="0">Ogólne</word>
   <word key="reward_promotion_header" js="0">Promocja</word>
   <word key="reward_amount_range" js="0">Zakres kwoty</word>
   <word key="reward_promote_enable" js="0">Włącz promocję?</word>
@@ -236,68 +240,69 @@
   <word key="reward_promote_secondary_exclude_desc" js="0">Wybierz, które grupy dodatkowe są wykluczone z tej promocji.</word>
   <word key="reward_days" js="0">Dni</word>
   <word key="goal_settings" js="0">Ustawienia celu</word>
-  <word key="dt_goal_close" js="0">Zamknij osiągnięte cele?</word>
-  <word key="dt_goal_close_desc" js="0">Usuń cel, gdy osiągnie 100%?</word>
-  <word key="dt_member_rewards_total_donations" js="0">Nagroda w oparciu o dotacje ogółem?</word>
-  <word key="dt_member_rewards_total_donations_desc" js="0">Poddawaj uaktualnienia grup użytkowników oparte na łącznej dotacji użytkownika, a nie na poszczególnych dotacjach.</word>
-  <word key="dt_latest_goals" js="0">Liczba celów do pokazania?</word>
+  <word key="dt_goal_close" js="0">Zamknąć osiągnięte cele? </word>
+  <word key="dt_goal_close_desc" js="0">Usunąć cel, gdy osiągnie 100%?</word>
+  <word key="dt_member_rewards_total_donations" js="0">Przyznanie nagrody na podstawie łącznej kwocie dotacji? </word>
+  <word key="dt_member_rewards_total_donations_desc" js="0">Dodawaj uaktualnienia grup użytkowników oparte na łącznej dotacji użytkownika, a nie na poszczególnych dotacjach.</word>
+  <word key="dt_latest_goals" js="0">Ilość celów do pokazania?</word>
   <word key="dt_goal_total" js="0">Ręczny łączny cel</word>
-  <word key="dt_goal_total_desc" js="0">Zamiast wykorzystywać sumę istniejących aktywnych celów, możesz ręcznie wpisać stałą liczbę hajsu. </word>
-  <word key="dt_enable_goal_rss" js="0">Włączać kanały RSS?</word>
+  <word key="dt_goal_total_desc" js="0">Zamiast wykorzystywać sumę istniejących aktywnych celów, możesz ręcznie wpisać stałą liczbę dotacji. </word>
+  <word key="dt_enable_goal_rss" js="0">Czy włączyć bramki RSS?</word>
   <word key="donation_settings" js="0">Ustawienia dotacji</word>
   <word key="dt_amounts" js="0">Kwota dotacji</word>
-  <word key="dt_amounts_desc" js="0">Wprowadź kwoty dotacji, które można wybrać lub zezwolić użytkownikom na wpisanie kwoty.</word>
+  <word key="dt_amounts_desc" js="0">Wprowadź kwoty dotacji — możesz wybrać jedną z nich lub pozwolić użytkownikom na wprowadzenie kwoty. </word>
   <word key="dt_amounts_null" js="0">Wprowadź ilość</word>
   <word key="dt_min_donation" js="0">Minimum dotacji</word>
   <word key="dt_min_donation_desc" js="0">Minimalna darowizna przyjęta w Twojej domyślnej walucie?</word>
   <word key="dt_anon_donation" js="0">Anonimowe dotacje?</word>
-  <word key="dt_anon_donation_desc" js="0">Zezwalaj użytkownikom na ukrywanie swojej nazwy użytkownika przed innymi członkami?</word>
+  <word key="dt_anon_donation_desc" js="0">Zezwalaj użytkownikom na ukrycie ich nazwy użytkownika przed innymi użytkownikami? </word>
   <word key="dt_anon_donation_amount" js="0">Anonimowe kwoty?</word>
-  <word key="dt_anon_donation_amount_desc" js="0">Zezwalaj użytkowniom na ukrywanie kwoty, którą przekazują od innych użytkowników?</word>
+  <word key="dt_anon_donation_amount_desc" js="0">Pozwolić użytkownikom ukryć kwotę, którą wpłacili przed innymi użytkownikami?</word>
   <word key="dt_include_fees" js="0">Uwzględnij opłaty za bramy?</word>
-  <word key="dt_include_fees_desc" js="0">Uwzględnij opłaty bramy w obliczeniach całkowitych?</word>
+  <word key="dt_include_fees_desc" js="0">Uwzględniać opłaty bramowe w całkowitych obliczeniach? </word>
   <word key="dt_default_currency" js="0">Domyślna waluta</word>
-  <word key="dt_default_currency_desc" js="0">Wybierz walutę, w której będą obliczane statystyki dotacji globalnych.</word>
+  <word key="dt_default_currency_desc" js="0">Wybierz walutę, w której będą obliczane globalne statystyki dotacji. </word>
   <word key="dt_create_topic" js="0">Utwórz temat?</word>
-  <word key="dt_create_topic_desc" js="0">Utwórz temat dyskusji na temat nowych dotacji?</word>
+  <word key="dt_create_topic_desc" js="0">Utworzyć temat dyskusji dla nowych dotacji? </word>
   <word key="dt_topic_author" js="0">Autor tematu</word>
   <word key="dt_topic_author_desc" js="0">Wprowadź wyświetlaną nazwę autora tematu</word>
-  <word key="dt_topic_title" js="0">Tytuł wątkue</word>
+  <word key="dt_topic_title" js="0">Tytuł tematu</word>
   <word key="dt_topic_title_desc" js="0">Wprowadź nazwę tytułu tematu.</word>
   <word key="dt_create_topic_forum" js="0">Forum tematów</word>
-  <word key="dt_create_topic_forum_desc" js="0">Wybierz forum, na którym zostaną dodane nowe tematy z dotacji.</word>
+  <word key="dt_create_topic_forum_desc" js="0">Wybierz forum, do którego forum będą dodawane nowe tematy donacji.</word>
   <word key="dt_topic_message" js="0">Treść tematu</word>
-  <word key="dt_topic_message_desc" js="0">Wprowadź treść nowego tematu dotacji.</word>
-  <word key="dt_enable_donation_rss" js="0">Włącz kanał RSS?</word>
-  <word key="dt_enable_donation_rss_desc" js="0">Wyświetlaj kanał RSS dla najnowszych dotacji?</word>
-  <word key="dt_hide_topic_hook" js="0">Ukryj temat?</word>
-  <word key="dt_hide_topic_hook_desc" js="0">Ukryj status dawcy w postach użytkowników?</word>
+  <word key="dt_topic_message_desc" js="0">Wprowadź treść nowego tematu darowizny. </word>
+  <word key="dt_enable_donation_rss" js="0">Włączyć kanał RSS?</word>
+  <word key="dt_enable_donation_rss_desc" js="0">Wyświetlać kanał RSS dla najnowszych dotacji? </word>
+  <word key="dt_hide_topic_hook" js="0">Ukryć temat?</word>
+  <word key="dt_hide_topic_hook_desc" js="0">Ukryć status darczyńcy przed wyświetlaniem w postach użytkowników? </word>
   <word key="donation_alerts" js="0">Ustawienia alertów</word>
-  <word key="dt_new_donation_pm" js="0">Wyślij darowiznę PW?</word>
-  <word key="dt_new_donation_pm_desc" js="0">Czy chcesz przekazać donatorom wiadomość PW?</word>
+  <word key="dt_new_donation_pm" js="0">Wysłać PM z dotacją?</word>
+  <word key="dt_new_donation_pm_desc" js="0">Czy chcesz wysłać darczyńcy wiadomość prywatną? </word>
   <word key="dt_new_promotion_pm" js="0">Wyślij promocję PW?</word>
-  <word key="dt_new_promotion_pm_desc" js="0">Czy chcesz wysłać donatorom wiadomość PW, kiedy są promowani?</word>
+  <word key="dt_new_promotion_pm_desc" js="0">Czy chcesz wysłać darczyńcom wiadomość PW, gdy zostaną awansowani? </word>
   <word key="dt_pm_sender" js="0">Nadawca PW</word>
-  <word key="dt_pm_sender_desc" js="0">Wpisz nazwę użytkownika, który pojawi się jako nadawca PW</word>
-  <word key="dt_create_own_topic" js="0">Utwórz jako donator?</word>
-  <word key="dt_create_own_topic_desc" js="0">Użyj użytkownika dotacji jako autora tematu?</word>
+  <word key="dt_pm_sender_desc" js="0">Wprowadź nazwę użytkownika, który będzie wyświetlany jako nadawca wiadomości prywatnej</word>
+  <word key="dt_create_own_topic" js="0">Stworzyć jako darczyńca?</word>
+  <word key="dt_create_own_topic_desc" js="0">Używać użytkownika donacji jako autora tematu?</word>
   <word key="donate_topic_settings_header" js="0">Ustawienia tematów</word>
   <word key="donate_pm_settings_header" js="0">Ustawienia PW</word>
   <word key="dt_new_donation_pm_subject" js="0">Temat PW</word>
-  <word key="dt_new_donation_pm_message" js="0">Wiadomość PW</word>
-  <word key="dt_new_donation_pm_subject_desc" js="0">Wprowadź temat, którego będzie używał nowa dotacja PW.</word>
-  <word key="dt_new_donation_pm_message_desc" js="0">Wprowadź wiadomość, której użyje nowa dotacja, której użyjemy.</word>
+  <word key="dt_new_donation_pm_message" js="0">Wiadomość prywatna</word>
+  <word key="dt_new_donation_pm_subject_desc" js="0">Wprowadź nazwę temat, którego będzie używał jako nowy PW donacji. </word>
+  <word key="dt_new_donation_pm_message_desc" js="0">Wprowadź wiadomość, której będzie używać jako nowy komunikat PW. </word>
   <word key="dt_enable_updates" js="0">Wyświetlić kartę aktualizacji?</word>
-  <word key="dt_enable_updates_desc" js="0">Wyświetlaj najnowsze aktualizacje z informacjami o celach dotacji?</word>
+  <word key="dt_enable_updates_desc" js="0">Wyświetlać zakładkę najnowsze aktualizacje z informacją o celach dotacji? </word>
   <word key="dt_donate_updates" js="0">Aktualizacje dotacji</word>
   <word key="dt_donate_updates_desc" js="0">Wprowadź informacje o celach dotacji.</word>
   <word key="dt_default_tab" js="0">Domyślna karta ładowania</word>
-  <word key="dt_default_tab_desc" js="0">Która zakładka będzie domyślna przy ładowaniu strony?</word>
+  <word key="dt_default_tab_desc" js="0">Która zakładka będzie domyślna podczas ładowania strony?</word>
   <word key="dt_default_tab__updates" js="0">Aktualizacje</word>
   <word key="dt_default_tab__goals" js="0">Cele</word>
   <word key="dt_default_tab__donations" js="0">Dotacje</word>
-  <word key="dt_default_tab__topdonors" js="0">Top donatorzy</word>
-  <word key="dt_hide_profile_tabs_desc" js="0">Ukryć zakładki w profilu oraz łączną kwotę dotacji?</word>
+  <word key="dt_default_tab__topdonors" js="0">Najwięksi darczyńcy</word>
+  <word key="dt_hide_profile_tabs" js="0">Ukrywać zakładki profilu?</word>
+  <word key="dt_hide_profile_tabs_desc" js="0">Ukryć zakładki profilu dotacji i całkowitych darowizn? </word>
   <word key="goals" js="0">Cele</word>
   <word key="add_goal" js="0">Dodaj cel</word>
   <word key="edit_goal" js="0">Edytuj cel</word>
@@ -306,11 +311,11 @@
   <word key="goal_cur" js="0">Waluta</word>
   <word key="goal_cur_desc" js="0">Wybierz główną walutę tego celu.</word>
   <word key="goal_date_range" js="0">Rozpocznij / zakończ</word>
-  <word key="goal_date_range_desc" js="0">Kiedy ten cel zacznie się i skończy? Pozostaw pustą datę zakończenia, aby nieprzerwanie uruchamiać ten cel.</word>
-  <word key="goal_show" js="0">Pokaż cel?</word>
-  <word key="goal_show_desc" js="0">Czy ten cel może zostać pokazany i dostępny dla dotacji?</word>
+  <word key="goal_date_range_desc" js="0">Kiedy ten cel się rozpocznie i zakończy? Pozostaw datę końcową pustą, aby cel nieprzerwanie działał.</word>
+  <word key="goal_show" js="0">Pokazać cel?</word>
+  <word key="goal_show_desc" js="0">Czy ten cel może być pokazany i dostępny dla darczyńców?</word>
   <word key="goal_private" js="0">Prywatny cel?</word>
-  <word key="goal_private_desc" js="0">Czy chcesz ukryć kwoty związane z tym celem??</word>
+  <word key="goal_private_desc" js="0">Czy chcesz ukryć kwoty związane z tym celem?</word>
   <word key="goal_featured" js="0">Wyróżniony cel?</word>
   <word key="goal__desc" js="0">Opis</word>
   <word key="desc_placeholder" js="0">Dodaj tutaj szczegółowe informacje o celu.</word>
@@ -321,23 +326,27 @@
   <word key="donate_system_settings_header" js="0">Ustawienia systemowe</word>
   <word key="donate_topic_settings_tab" js="0">Temat</word>
   <word key="donate_pm_settings_tab" js="0">Prywatne wiadomości</word>
-  <word key="goalemails__paypal_settings" js="0">Ustawienia Paypal</word>
-  <word key="goalemails__paypal" js="0">Paypal email</word>
-  <word key="goalemails__paypal_desc" js="0">Ustaw swój adres e-mail Paypal, na który będą wysyłane dotacje. Pozostaw puste, aby użyć domyślnych ustawień bramy.</word>
-  <word key="donate_permissions" js="0">Dotacje Uprawnienia</word>
-  <word key="g_dt_view" js="0">Może wyświetlać aplikację?</word>
-  <word key="g_dt_donate" js="0">Potrafi wysłać dotacje?</word>
-  <word key="g_dt_donate_desc" js="0">Można wysyłać dotację?</word>
+  <word key="goalemails__paypal_settings" js="0">Ustawienia PayPal</word>
+  <word key="goalemails__paypal" js="0">Paypal E-mail</word>
+  <word key="goalemails__paypal_desc" js="0">Ustaw swój adres e-mail Paypal, na który będą wysyłane dotacje. Pozostaw pusty, aby użyć domyślnych ustawień bramy. </word>
+  <word key="donate_permissions" js="0">Uprawnienia dotacji</word>
+  <word key="g_dt_view" js="0">Czy można zobaczyć aplikację?</word>
+  <word key="g_dt_donate" js="0">Czy można przekazać darowiznę? </word>
+  <word key="g_dt_donate_desc" js="0">Czy użytkownik może wysyłać dotację?</word>
   <word key="g_dt_view_goals" js="0">Może wyświetlać cele?</word>
-  <word key="g_dt_view_donations" js="0">Czy może oglądać dotacje?</word>
-  <word key="g_dt_send_donations" js="0">Może wysyłać kwoty?</word>
-  <word key="g_dt_send_donations_desc" js="0">Czy użytkownicy tej grupy mogą wysłać dotacje na rzecz innych użytkowników?</word>
-  <word key="g_dt_moderate_donations" js="0">Może moderować sumy?</word>
-  <word key="g_dt_moderate_donations_desc" js="0">Czy członkowie tej grupy mogą modyfikować sumy darowizn użytkowników?</word>
+  <word key="g_dt_view_goals_desc" js="0">Czy można wyświetlić wszystkie aktywne i przeszłe cele dotacji?</word>
+  <word key="g_dt_view_donations" js="0">Czy można przeglądać darowizny? </word>
+  <word key="g_dt_view_donations_desc" js="0">Czy można zobaczyć wszystkie darowizny użytkowników? </word>
+  <word key="g_dt_send_donations" js="0">Czy można przesyłać kwoty?</word>
+  <word key="g_dt_send_donations_desc" js="0">Czy użytkownicy tej grupy mogą wysyłać swoje dotacje do innych użytkowników? </word>
+  <word key="g_dt_moderate_donations" js="0">Czy może moderować sumy?</word>
+  <word key="g_dt_moderate_donations_desc" js="0">Czy użytkownicy znajdujący się w tej grupie mogą modyfikować sumy dotacji innych użytkowników?</word>
+  <word key="g_dt_view_topdonors" js="0">Czy można zobaczyć najlepszych darczyńców?</word>
+  <word key="g_dt_view_topdonors_desc" js="0">Czy można widzieć najlepszych darczyńców? </word>
   <word key="donations" js="0">Dotacje</word>
   <word key="donation_member_id" js="0">Użytkownik</word>
   <word key="donation_member_name" js="0">Użytkownik</word>
-  <word key="donation_member_id_desc" js="0">Pozostaw puste, jeśli darowizna offline</word>
+  <word key="donation_member_id_desc" js="0">Pozostawić puste w przypadku dotacji offline </word>
   <word key="donation_date" js="0">Data</word>
   <word key="donation_goal" js="0">Cel</word>
   <word key="donation_amount" js="0">Ilość</word>
@@ -353,7 +362,7 @@
   <word key="donation_anon" js="0">Anonimowy użytkownik?</word>
   <word key="donation_anon_amount" js="0">Anonimowa kwota?</word>
   <word key="donation_upgrade_group" js="0">Uaktualnij grupę użytkowników</word>
-  <word key="donation_upgrade_group_desc" js="0">Zastosuj dowolne nagrody użytkowników, które ustawiłeś i uaktualniłeś konto użytkownika?</word>
+  <word key="donation_upgrade_group_desc" js="0">Zastosuj wszystkie nagrody dla użytkowników, które ustawiłeś i uaktualnij konto użytkownika? </word>
   <word key="donate_custom_fields_header" js="0">Pola niestandardowe</word>
   <word key="block_donateGoals" js="0">Cele dotacji</word>
   <word key="block_donateGoals_desc" js="0">Dodaj jedną lub listę celów dotacji.</word>
@@ -361,7 +370,7 @@
   <word key="select_goal_zeroVal" js="0">Użyj poniższych filtrów i wyświetl listę celów.</word>
   <word key="goal_limit" js="0">Liczba celów do pokazania?</word>
   <word key="goal_type" js="0">Jakie cele chcesz pokazać?</word>
-  <word key="latest_goals" js="0">Najnowsze cele</word>
+  <word key="latest_goals" js="0">Ostatnie cele</word>
   <word key="featured_goals" js="0">Wyróżnione cele</word>
   <word key="block_donateStats" js="0">Statystyki dotacji</word>
   <word key="block_donateStats_desc" js="0">Dodaj statystyki całkowitego celu i dotacji.</word>
@@ -369,19 +378,19 @@
   <word key="total_donations" js="0">Wpłacono</word>
   <word key="total_fees" js="0">Wszystkie koszty</word>
   <word key="block_donateDonate" js="0">Box dotacji</word>
-  <word key="block_donateDonate_desc" js="0">Dodaje box, z której członkowie mogą przekazywać dotcji.</word>
+  <word key="block_donateDonate_desc" js="0">Dodaje box, z której użytkownicy mogą przekazywać dotcji.</word>
   <word key="enter_amount" js="0">Wprowadź ilość</word>
   <word key="block_donateDonations" js="0">Lista dotacji</word>
   <word key="block_donateDonations_desc" js="0">Dodaj listę najnowszych dotacji lub najlepszych donatorów.</word>
-  <word key="top_donors" js="0">Top donatorzy</word>
-  <word key="latest_donations" js="0">Najnowsze Dotacje</word>
+  <word key="top_donors" js="0">Najlepsi darczyńcy</word>
+  <word key="latest_donations" js="0">Ostatnie dotacje</word>
   <word key="d_type" js="0">Rodzaj bloku?</word>
-  <word key="d_limit" js="0">Ilu pokazać?</word>
+  <word key="d_limit" js="0">Ile pokazać?</word>
   <word key="d_goal" js="0">Filtruj według celu?</word>
   <word key="d_goal_zeroVal" js="0">Wybierz wszystkie cele.</word>
-  <word key="block_donateDonate_text" js="0"><![CDATA[Przekaż dotacje na wsparcie społeczności.<br />Doceniamy wszystkie doptacje!!]]></word>
+  <word key="block_donateDonate_text" js="0"><![CDATA[Przekaż dotacje na wsparcie społeczności.<br />Doceniamy wszystkie doptacje!]]></word>
   <word key="view_donations" js="0">Zobacz dotacje</word>
-  <word key="view_top_donors" js="0">Zobacz najlepszych donatorów</word>
+  <word key="view_top_donors" js="0">Zobacz najlepszych darczyńców</word>
   <word key="view_goals" js="0">Zobacz cele</word>
   <word key="still_needed" js="0">Nadal potrzebne</word>
   <word key="block_donateSend" js="0">Przekaz dotacje</word>
@@ -389,26 +398,27 @@
   <word key="block_donateSend_title" js="0">Wyślij kwotę dotacji</word>
   <word key="donate_send_donation" js="0">Wyślij kwotę</word>
   <word key="donatesend_info" js="0"><![CDATA[Posiadasz <strong>%s</strong> w sumie dotacji do wysłania innym użytkownikom.]]></word>
-  <word key="donatesend_note_placeholder" js="0">Czy masz jakąś notatkę do wywalenia?</word>
-  <word key="donate_send_donation_total" js="0">Wyślij dotacje Totalną</word>
+  <word key="donatesend_note_placeholder" js="0">Czy masz jakąś notatkę do zostawienia?</word>
+  <word key="donate_send_donation_total" js="0">Wyślij dotację łącznie</word>
   <word key="donatesend_member_id" js="0">Użytkownik</word>
   <word key="donatesend_member_id_desc" js="0">Wprowadź nazwę użytkownika, do którego wysyłasz wiadomość</word>
   <word key="donatesend_amount" js="0">Ilość</word>
   <word key="donatesend_amount_desc" js="0">Podaj, ile wysyłasz do tego użytkownika.</word>
   <word key="donatesend_note" js="0">Wyślij notatkę</word>
-  <word key="donatesend_note_desc" js="0">Każda wiadomość do wysłania z tym przelewem?</word>
+  <word key="donatesend_note_desc" js="0">Jakaś notatka do wysłania z tym przelewem?</word>
   <word key="donate_no_send_self" js="0">Nie możesz wysłać do siebie.</word>
   <word key="donate_no_send_excess" js="0">Nie możesz przesłać więcej niż sumy dotacji.</word>
   <word key="donate_total_donors" js="0">Wsparło nas</word>
   <word key="donate_latest_donor" js="0">Najnowsza dotacja</word>
   <word key="donate_show_more" js="0">Pokaż więcej</word>
-  <word key="block_donateTopDonors" js="0">Top donatorzy</word>
+  <word key="block_donateTopDonors" js="0">Najwięksi darczyńcy</word>
   <word key="block_donateTopDonors_desc" js="0">Wyświetl listę najlepszych donatorów.</word>
-  <word key="donateTopDonors_empty" js="0">Brak głównych dotacji do pokazania.</word>
+  <word key="donateTopDonors_empty" js="0">Brak dotacji do pokazania.</word>
   <word key="donateTopDonors_limit" js="0">Liczba do wyświetlenia?</word>
   <word key="donateTopDonors_timeframe" js="0">Najważniejsze ramy czasowe donatorów?</word>
-  <word key="donateTopDonors_goals" js="0">Najlepsze dotacje</word>
-  <word key="donateTopDonors_goals_desc" js="0">Pokazać najlepszych donatorów z wybranych celów?</word>
+  <word key="donateTopDonors_goals" js="0">Główne cele darczyńców</word>
+  <word key="donateTopDonors_goals_desc" js="0">Pozyskać najlepszych darczyńców tylko z wybranych celów?</word>
+  <word key="donateTopDonors_reset" js="0">Może obserwować reset dotacji?</word>
   <word key="donateTopDonors_reset_desc" js="0">Jeśli masz włączony reset dotacji, czy chcesz pokazać tylko najlepszych donatorów od wybranej daty?</word>
   <word key="make_donation" js="0">Przekaż dotacje</word>
   <word key="donation" js="0">Dotacja</word>
@@ -432,8 +442,8 @@
   <word key="anonymous_amount_desc" js="0">Ukrywa kwotę, którą przekazałeś z publicznego wyświetlania.</word>
   <word key="os0" js="0">Anonimowa Dotacja?</word>
   <word key="os1" js="0">Anonimowa Kwota?</word>
-  <word key="os0_desc" js="0">Ukrywa Twoją nazwę użytkownika przed publicznym wyświetlaniem.</word>
-  <word key="os1_desc" js="0">Ukrywa kwotę, którą przekazałeś z publicznego wyświetlania.</word>
+  <word key="os0_desc" js="0">Ukrywa Twoją nazwę przed publicznym wyświetlaniem.</word>
+  <word key="os1_desc" js="0">Ukrywa kwotę, którą przekazałeś przed publicznym wyświetlaniem</word>
   <word key="detail2_text" js="0">Anonimowa Dotacja?</word>
   <word key="detail3_text" js="0">Anonimowa Kwota?</word>
   <word key="detail2_text_desc" js="0">Ukrywa Twoją nazwę użytkownika przed publicznym wyświetlaniem.</word>
