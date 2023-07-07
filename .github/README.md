@@ -2,7 +2,7 @@
 
 ## 🏷️ Requirements
 
-- [IPS Community Suite: 4.6 version](https://invisioncommunity.com/)
+- [IPS Community Suite: 4.7 version](https://invisioncommunity.com/)
 - [Donations 3.5.4](https://invisioncommunity.com/files/file/7615-donations/)
 
 ## 🧰 Install and update
@@ -19,6 +19,6 @@
 [Github Releases](//github.com/PawelCode/ips-lang-polish-donations/releases)
 
 ## 🔌 Download from other sources:
-- [1shot2kill.pl](https://1shot2kill.pl/topic/110347-spolczenie-donations-invision-community)
+- [Katujemy.eu](https://katujemy.eu/topic/70493-spolczenie-donations-invision-community/)
 - [Pecetowicz.pl](https://www.pecetowicz.pl/topic/spolszczenie-aplikacji-donations-invision-community-95469/)
 - [Invision Community](https://invisioncommunity.com/files/file/9961-bim-chatbox-free-polish-translation/)
